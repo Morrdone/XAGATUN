@@ -1,0 +1,131 @@
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Паша\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\MembersWindow.g.cs
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\MembersWindow.baml
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\MembersWindow.g.cs
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\MembersWindow.baml
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\MembersWindow.g.cs
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\MembersWindow.baml
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\danil\OneDrive\Рабочий стол\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\MembersWindow.g.cs
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\MembersWindow.baml
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Паша\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.ResolveComReference.cache
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\bin\Debug\Itogoviy_Protokol.docx
+C:\Users\strel\Desktop\программирование\WpfApp2\WpfApp2\bin\Debug\VEDOMOST.docx
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\bin\Debug\Itogoviy_Protokol.docx
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\bin\Debug\VEDOMOST.docx
+C:\Users\Morrdone\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.ResolveComReference.cache
+F:\ИУУУУ\WpfApp2\WpfApp2\bin\Debug\Itogoviy_Protokol.docx
+F:\ИУУУУ\WpfApp2\WpfApp2\bin\Debug\VEDOMOST.docx
+F:\ИУУУУ\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+F:\ИУУУУ\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+F:\ИУУУУ\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.ResolveComReference.cache
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\MembersWindow.g.cs
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\MembersWindow.baml
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+F:\ИУУУУ\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\bin\Debug\Itogoviy_Protokol.docx
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\bin\Debug\VEDOMOST.docx
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.ResolveComReference.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\MembersWindow.g.cs
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\MembersWindow.baml
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\ScorePractikWindow.g.cs
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСИП 20-11-3\НЕ КОСТЫЛЬ\Выполненые работы\WpfApp2\WpfApp2\obj\Debug\ScorePractikWindow.baml

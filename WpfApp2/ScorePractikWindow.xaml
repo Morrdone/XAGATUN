@@ -1,0 +1,53 @@
+﻿<Window x:Class="WpfApp2.ScorePractikWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Cursor="Arrow" BorderThickness="0" WindowStyle="None" >
+    <Grid RenderTransformOrigin="0.5,0.498" Background="#FF26262C">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Background="#FF0F0F1B" Grid.RowSpan="2" Grid.ColumnSpan="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="addButton" Content="Добавить" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="50" Background="{x:Null}" FontSize="20" Foreground="White" BorderBrush="{x:Null}"  Grid.Row="1" Click="addButton_Click"/>
+            <Button x:Name="deleteButton" Content="Удалить" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Width="150" Height="50" Background="{x:Null}" FontSize="20" Foreground="White" BorderBrush="{x:Null}" Click="deleteButton_Click" />
+            <Button x:Name="editButton" Content="Изменить" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Width="150" Height="49" Background="{x:Null}" FontSize="20" Foreground="White" BorderBrush="{x:Null}" Click="editButton_Click" Margin="0,1,0,0" />
+            <Button x:Name="exitButton" Content="Выход" HorizontalAlignment="Center" Grid.Row="7" VerticalAlignment="Bottom" Width="150" Height="50" Background="{x:Null}" FontSize="20" Foreground="White" BorderBrush="{x:Null}" Click="exitButton_Click"/>
+            <Button x:Name="MembersButton" Content="Студенты" HorizontalAlignment="Center" Grid.Row="6" VerticalAlignment="Center" Width="150" Height="50" Background="{x:Null}" FontSize="20" Foreground="White" BorderBrush="{x:Null}" Click="MembersClick" RenderTransformOrigin="0.533,-0.012" />
+            <Button x:Name="Button_Import" Content="Импорт" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" Width="150" Height="49" Background="{x:Null}" FontSize="20" Foreground="White" BorderBrush="{x:Null}" Click="Button_ImportClick" Margin="0,0,0,1" />
+            <Button x:Name="MembersButton_Copy" Content="Члены комиссии" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" Width="150" Height="50" Background="{x:Null}" FontSize="18" Foreground="White" BorderBrush="{x:Null}" Click="MembersClick" />
+        </Grid>
+
+        <Grid Background="#FF0A0A13" Margin="0,0,0,350" >
+            <Image Margin="23,0,27,0" Source="Logo.png" Stretch="Fill"/>
+        </Grid>
+        <ListBox x:Name="listBox" Grid.Column="1" HorizontalAlignment="Left" Height="430" Margin="235,10,0,0" VerticalAlignment="Top" Width="405" Grid.RowSpan="2" Background="#FF1E1E23" BorderBrush="{x:Null}" Foreground="#FFDAD8D8" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Visible" />
+        <ComboBox x:Name="comboBox" Grid.Column="1" HorizontalAlignment="Left" Margin="10,33,0,0" VerticalAlignment="Top" Width="220"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="10,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FFDAD8D8" Width="120" FontSize="15" Height="21"><Run Text="Студент"/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="kriterScoreButton" Content="Загрузить критерии оценивания" Grid.Column="1" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Width="220" BorderBrush="White" Height="22" Click="PrintButton_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFCDCDCD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>
